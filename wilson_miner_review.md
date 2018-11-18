@@ -7,7 +7,9 @@ The world is full of tools, 'things'.. that surround us. Some we choose ourselve
 
 They may also hold our memories, our stories... reminding us of people and moments in our past as well as symbolising our future.  It is no secret that the Tech world is rapidly advancing and subsequently so do the wants and needs of the human race.  We wait patiently on the release of these 'things'... the latest iphone with its new, exciting features and we imagine how it will improve our lives when we have them. 
 
-> As Wilson Minor states “They become a symbol of ourselves.”
+> “They become a symbol of ourselves.” 
+>
+> -Wilson Miner
 
 They surround our everyday lives, from a car.. to a home.. to the things that fill that home.  We see them in our future.  We set goals to acquire these 'things' and feel amazing when we do.  We share them with others. We pass them on to loved ones and one day they may do the same.
 
@@ -30,9 +32,8 @@ My 79 year old grandmother spends a fair amount of time on her phone, online, wa
 Wilson Miner believes that the screen will shape the 21st century, and what **WE** do as designers will shape how these screens look and feel for the entire world.  Responding to our environment, the smallest changes we make can certaintly be the most transformative.  
 
 > “We are a product of *'our world'* and *'our world'* is made of *'things'*, 
-> but we are also its designer. 
-> We decide where to live, what to surround ourselves with, and with who and 
-> what we spend our time and energy on”
+>  but we are also its designer. We decide where to live, what to surround ourselves with, and with who and 
+>  what we spend our time and energy on”
 >
 > -Wilson miner
 
