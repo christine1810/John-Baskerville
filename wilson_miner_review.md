@@ -1,4 +1,4 @@
-# Review of Wilson miners 'When We Build'
+# Wilson Miner 'When We Build'
 
 
 “The potential for what we do” This statement by Wilson Miner during his *‘When We Build’* talk spoke to me immediately.  During his talk he states “It is a uniquely exciting time to be designing Interfaces, interactive digital tools and products.” as an aspiring UX Designer I believe he is right.
@@ -36,4 +36,4 @@ Wilson Miner believes that the screen will shape the 21st century, and what **WE
 >
 > -Wilson miner
 
-He also talks about how what we surround ourselves with will shape what we become and I believe he is right, our environment is *always* changing and therefore we must be *always* learning.  This talk was truly inspirational.
+He also talks about how what we surround ourselves with will shape what we become and I believe he is right, our environment is *always* changing and therefore we must be *always* learning.  This talk was truly inspirational and has forever altered how I see the world.
