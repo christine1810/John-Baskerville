@@ -15,13 +15,13 @@ body
     max-width: 670%;
     margin: auto;
     background: #fafafa;
-    colour: #333;
+    color: #333;
     }
 
 h1,h2,h3 
     {
     font-weight: normal;
-    colour: ##FFC0CB;
+    color: #cc0000;
     text-align: center;
     }
 
@@ -33,6 +33,7 @@ p, li, blockquote
 
 h1
     {
+    font-size: 4em;
     margin-top: 1em;
     margin-bottom: 0.1em;
     }
@@ -43,7 +44,7 @@ h2
     margin: 1em 0 4 0;
     }
 
-h3 {
+h3  {
     font-size: 1.999;
     margin: 1em 0 4 0;
     }
@@ -65,13 +66,13 @@ header h3
 
 a
     {
-    colour; #c06;
+    color: #c06;
     text-decoration: none
     }
 
 a:hover
     {
-    colour: #006341;
+    color: #006341;
     border-bottom: 1px dotted;
     }
 
@@ -93,8 +94,7 @@ nav ul
     {
     text-align: center;
     text-transform: uppercase; 
-    letter-spacing: 2px
-        
+    letter-spacing: 2px   
     }
 
 nav ul li 
@@ -105,17 +105,17 @@ nav ul li
 
 nav a:link 
     {
-    colour: #fff
+    color: #fff
     }
 
 nav a:vistited 
     {
-    colour: #000
+    color: #000
     }
 
 nav a:hover
     {border-bottom: none;
-        colour: #000 
+        color: #fff 
     }
 
 /*----- BLOCKQUOTE -----*/
@@ -125,7 +125,7 @@ blockquote
     padding: 1em 0 4em 0;
     font-size: 1.75em;
     line-height: 1.3;
-    colour: #777
+    color: #777
     }
 
 blockquote cite
@@ -158,6 +158,6 @@ hr
     margin: 3em 0;
     height: 1px;
     background-color: #c06;
-    colour: #c06;
+    color: #c06;
     border: 0 none;
     }
