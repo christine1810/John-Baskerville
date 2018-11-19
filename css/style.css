@@ -48,4 +48,10 @@ h3
     font-size: 1.999;
     margin: 1em 0 4 0;
     }
+
+blockquote
+    {
+    hanging-punctuation: first;
+    text text-indent: -0.5em;
+    }
     
