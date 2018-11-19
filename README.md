@@ -1,6 +1,6 @@
 # John Baskerville
 
--[Baskerville 1](https://christine1810.github.io/John-Baskerville/baskerville1.html)
+- [Baskerville 1](https://christine1810.github.io/John-Baskerville/baskerville1.html)
 
 - [Baskerville 2](https://christine1810.github.io/John-Baskerville/baskerville2.html)
 
