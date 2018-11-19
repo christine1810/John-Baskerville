@@ -62,3 +62,15 @@ header h3
     margin-top: 0.1em
     }
     
+/* ------ STYLING LINKS ------ */
+
+a{
+    colour; #c06;
+    text-decoration: none
+}
+
+a:hover
+    {
+    colour: #006341;
+    border-bottom: 1px dotted;
+    }
