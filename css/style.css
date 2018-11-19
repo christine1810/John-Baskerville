@@ -1,0 +1,51 @@
+/*------ CSS RESET ------*/
+
+{   
+padding: 0;
+margin: 0;
+font-size: 100%;
+line-height: 1em;
+}
+
+/*------ MAIN STYLING ------*/
+
+body
+    {
+    width: 75%;
+    max-width: 670%;
+    margin: auto;
+    background: #fafafa;
+    colour: #333;
+    }
+
+h1,h2,h3 
+    {
+    font-weight: normal;
+    colour: #c06;
+    text-align: center;
+    }
+
+p, li, blockquote 
+    {
+    margin-bottom: 1.5em;
+    line-height: 1.4;
+    }
+
+h1
+    {
+    margin-top: 1em;
+    margin-bottom: 0.1em;
+    }
+
+h2
+    {
+    font-size: 2.827;
+    margin: 1em 0 4 0;
+    }
+
+h3
+    {
+    font-size: 1.999;
+    margin: 1em 0 4 0;
+    }
+    
