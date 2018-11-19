@@ -84,7 +84,7 @@ nav
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #066;
+    background-color: #ff99cc;
     padding: 1em 0;
     font-size: 0.75em;
     }
@@ -157,8 +157,7 @@ hr
     {
     margin: 3em 0;
     height: 1px;
-        background-color: #c06;
-        colour: #c06;
-        border: 0 none;
-        
-}
+    background-color: #c06;
+    colour: #c06;
+    border: 0 none;
+    }
