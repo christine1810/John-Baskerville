@@ -13,9 +13,7 @@
 <<<<<<< HEAD
 - [Baskerville 6](https://christine1810.github.io/John-Baskerville/baskerville5.html)
 
-=======
-- [Baskerville 6](https://christine1810.github.io/John-Baskerville/baskerville6.html)
->>>>>>> be39d02f135277ce09d217ee128d0bfad2ac32e3
+
 
 ---
 
@@ -34,5 +32,4 @@
 <<<<<<< HEAD
 - [History of Type 6](https://christine1810.github.io/John-Baskerville/history5.html)
 =======
-- [History of Type 6](https://christine1810.github.io/John-Baskerville/history6.html)
->>>>>>> be39d02f135277ce09d217ee128d0bfad2ac32e3
+
