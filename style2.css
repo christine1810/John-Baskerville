@@ -32,13 +32,12 @@ p, li, blockquote
     line-height: 1.4;
     }
 
-p.introduction:first-letter {
- font-size: 100px;
- float: left; 
-color: #D4D4C7;
- line-height: 35px;
- padding-top: 3px; 
- padding-right: 3px;
+p.section1
+{
+font-weight: normal;
+    color: #c06;
+    text-align: center;
+    line-height: 2;
 }
 
 h1
