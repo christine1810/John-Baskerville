@@ -17,13 +17,6 @@ body
     font-family: 'Libre Baskerville', serif;
     }
 
-p:first-letter {
-    float: left;
-    font-size: 45px;
-    line-height: 1;
-    font-weight: bold;
-    margin-right: 9px;
-}
 
 h1,h2,h3 
     {
@@ -35,7 +28,7 @@ h1,h2,h3
 
 p, li, blockquote 
     {
-    margin-bottom: 1.5em;
+    margin-bottom: 1.5em
     line-height: 1.4;
     }
 
