@@ -10,6 +10,8 @@
 
 - [Baskerville 5](https://christine1810.github.io/John-Baskerville/baskerville5.html)
 
+- [Baskerville 6](https://christine1810.github.io/John-Baskerville/baskerville5.html)
+
 
 ---
 
@@ -24,3 +26,5 @@
 - [History of Type 4](https://christine1810.github.io/John-Baskerville/history4.html)
 
 - [History of Type 5](https://christine1810.github.io/John-Baskerville/history5.html)
+
+- [History of Type 6](https://christine1810.github.io/John-Baskerville/history5.html)
