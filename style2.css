@@ -9,11 +9,13 @@ line-height: 1em;
 
 body
     {
-    width: 75%;
-    max-width: 670%;
+    width: 60%;
+    max-width: 600%;
     margin: auto;
     background: #fafafa;
     color: #333;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Arvo', serif;
     font-family: 'Libre Baskerville', serif;
     }
 
@@ -24,7 +26,6 @@ h1,h2,h3
     color: #c06;
     text-align: center;
     line-height: 2;
-    font-family: 'Libre Baskerville', serif;
     }
 
 p, li, blockquote 
@@ -46,6 +47,7 @@ h1
     font-size: 4em;
     margin-top: 1em;
     margin-bottom: 0.1em;
+    text-align: center;
     }
 
 h2
