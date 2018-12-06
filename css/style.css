@@ -11,12 +11,11 @@ line-height: 1em;
 
 body
     {
-    width: 75%;
-    max-width: 670%;
+    width: 90%;
+    max-width: 670px;
     margin: auto;
     background: #fafafa;
     color: #333;
-    font-family: 'Libre Baskerville', serif;
     }
 
 h1,h2,h3 
@@ -24,53 +23,53 @@ h1,h2,h3
     font-weight: normal;
     color: #c06;
     text-align: center;
-    line-height: 2;
+    line-height: 2
     }
 
 p, li, blockquote 
     {
     margin-bottom: 1.5em;
-    line-height: 1.4;
+    line-height: 1.4
     }
 
 h1
     {
     font-size: 4em;
     margin-top: 1em;
-    margin-bottom: 0.1em;
+    margin-bottom: 0.1em
     }
 
 h2
     {
-    font-size: 2.827;
-    margin: 1em 0 4 0;
-    color: #000;
+    font-size: 2.5em;
+    margin: 1em 0;
     }
 
 h3  {
     font-size: 1.999;
-    margin: 1em 0 4 0;
     }
 
 blockquote
     {
     hanging-punctuation: first;
-    text-indent: -0.5em;
+    text-indent: -0.5em
     }
 
 header h3
     {
     font-style: italic;
     font-size: 2.35em;
+    line-height: 1.5;
     margin-top: 0.1em
+    color: #fff
     }
     
 /* ------ STYLING LINKS ------ */
 
 a
     {
-    color: #c06;
-    text-decoration: none
+    color: #fff;
+    text-decoration: none;
     }
 
 a:hover
@@ -88,9 +87,9 @@ nav
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #00ccff;
+    background-color: rgba(204, 0, 102, 0.8);
     padding: 1em 0;
-    font-size: 0.75em;
+    font-size: 0.75em
     }
 
 nav ul
@@ -103,7 +102,7 @@ nav ul
 nav ul li 
     {
     display: inline;
-    margin: 20px;
+    margin: 20px
     }
 
 nav a:link 
@@ -113,12 +112,13 @@ nav a:link
 
 nav a:vistited 
     {
-    color: #000
+    color: #fff
     }
 
 nav a:hover
-    {border-bottom: none;
-        color: #fff 
+    {
+    border-bottom: none;
+    color: #000
     }
 
 /*----- BLOCKQUOTE -----*/
@@ -143,7 +143,7 @@ img
     display: block;
     margin: 4em auto;
     padding: 0;
-    max-width: 100%;
+    max-width: 100%
     }
 
 /*----- FOOTER -----*/
@@ -153,7 +153,7 @@ footer
     text-align: center;
     font-size: 0.75em;
     line-height: 1.5em;
-    padding: 2em 0;
+    padding: 2em 0 4em 0
     }
 
 hr 
@@ -162,5 +162,5 @@ hr
     height: 1px;
     background-color: #c06;
     color: #c06;
-    border: 0 none;
+    border: 0 none
     }
