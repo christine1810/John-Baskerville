@@ -1,165 +1,147 @@
-/*------ CSS RESET ------*/
+/*-------- CSS RESET --------*/
 
-{   
-padding: 0;
-margin: 0;
-font-size: 100%;
-line-height: 1em;
-}
+* {
+   padding: 0;
+   margin: 0;
+   font-size:100%;
+   line-height: 1em;
+  }
 
-/*------ MAIN STYLING ------*/
+/*------- MAIN STYLING --------*/
 
-body
-    {
-    width: 90%;
-    max-width: 670px;
-    margin: auto;
-    background: #fafafa;
-    color: #333;
-    font-family: 'Libre Baskerville', serif;
-    }
+    body {
+        width: 90%;
+        max-width: 670px;
+        margin: auto;
+        background: #fafafa;
+        color: #333;
+        }
 
-h1,h2,h3
-    {
-    font-weight: normal;
-    color: #c06;
-    text-align: center;
-    }
 
-p, li, blockquote 
-    {
-    margin-bottom: 1.5em;
-    line-height: 1.5
-    }
+/*--------- TYPOGRAPHY --------*/
+        h1, h2, h3 {
+            font-weight: normal;
+            color: #42d1f4;
+            text-align: center
+        }
 
-h1
-    {
-    font-size: 4em;
-    margin-top: 1em;
-    margin-bottom: .1em
-    }
+        p, li, blockquote {
+            margin-bottom: 1.5em;
+            line-height: 1.5
+            }
 
-h2
-    {
-    font-size: 2.5em;
-    margin: 1em 0;
-    }
+        h1 {
+            font-size: 3.998em;
+            margin-top: 1em;
+            margin-bottom: 0.1em
+            }
 
-h3  {
-    font-size: 1.999;
-    }
+        h2 {    
+            font-size: 2.678em;
+            margin: 1em 0
+            }
 
-blockquote
-    {
-    hanging-punctuation: first;
-    text-indent: -0.5em
-    }
+        h3 {
+            font-size: 1.999em
+            }
 
-header h2
-    {
-    font-style: italic;
-    font-size: 2.35em;
-    line-height: 1.5;
-    margin-top: 0.1em
-    color: #333;
-    }
-    
-/* ------ STYLING LINKS ------ */
+        blockquote {
+            hanging-punctuation: first;
+            text-indent: -0.5em
+            }
 
-a
-    {
-    color: #c06;
-    text-decoration: none;
-    }
+        header h2 {
+            font-style: italic;
+            font-size: 2.35em;
+            line-height: 1.5;
+            margin-top: 0.1em;
+            color: #333
+            }
 
-a:hover
-    {
-    color: #006341;
-    border-bottom: 1px dotted;
-    }
+/*--------- STYLING LINKS ---------*/
 
-/*------- NAVIGATION ------*/
+    a {
+        color: #c06;
+        text-decoration: none;    
+        }
 
-nav
-    {
+    a:hover {
+        color: #006341;
+        border-bottom: 1px dotted;
+        }
+
+/*---------- NAVIGATION ------------*/
+
+nav {
     position: fixed;
     top: 0;
-    left: 0;
+    left:0;
     margin: 0;
     width: 100%;
     background-color: rgba(204, 0, 102, 0.8);
-    padding: 1em 2;
+    padding: 1em 0;
     font-size: 0.75em
     }
 
-nav ul
-    {
+nav ul {
     text-align: center;
-    text-transform: uppercase; 
-    letter-spacing: 2px; 
-    
+    text-transform: uppercase;
+    letter-spacing: 2px
     }
-       
 
-nav ul li 
-    {
+nav ul li {
     display: inline;
     margin: 20px
-    }
+    }   
 
-nav a:link 
-    {
+
+nav a:link {
     color: #fff
     }
 
-nav a:vistited 
-    {
+nav a:visited {
     color: #fff
     }
 
-nav a:hover
-    {
+nav a:hover {
     border-bottom: none;
     color: #000
     }
 
-/*----- BLOCKQUOTE -----*/
 
-blockquote 
-    {
+/*---------- BLOCKQUOTE ----------*/
+
+blockquote {
     padding: 1em 0 4em 0;
     font-size: 1.75em;
     line-height: 1.3;
     color: #777
-    }
+    }   
 
-blockquote cite
-    {
+blockquote cite {
     font-size: 0.75em
     }
 
-/*----- IMAGES -----*/
 
-img
-    {
+/*------------ IMAGES -----------*/
+
+img {
     display: block;
     margin: 4em auto;
     padding: 0;
     max-width: 100%
     }
 
-/*----- FOOTER -----*/
+/*---------- FOOTER ------------*/
 
-footer
-    {
+footer {
     text-align: center;
-    font-size: 1em;
+    font-size: 0.75em;
     line-height: 1.5em;
     padding: 2em 0 4em 0
     }
 
-hr 
-    {
+hr {
     margin: 1em 0;
     height: 1px;
     background-color: #c06;
