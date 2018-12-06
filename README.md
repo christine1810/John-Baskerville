@@ -10,7 +10,6 @@
 
 - [Baskerville 5](https://christine1810.github.io/John-Baskerville/baskerville5.html)
 
-- [Baskerville 6](https://christine1810.github.io/John-Baskerville/baskerville5.html)
 
 
 
