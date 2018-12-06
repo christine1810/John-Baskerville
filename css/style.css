@@ -15,28 +15,27 @@ body
     max-width: 670px;
     margin: auto;
     background: #fafafa;
-    color: #333;
+    color: #000;
     }
 
-h1,h2,h3 
+h1,h2,h3
     {
     font-weight: normal;
     color: #c06;
     text-align: center;
-    line-height: 2
     }
 
 p, li, blockquote 
     {
     margin-bottom: 1.5em;
-    line-height: 1.4
+    line-height: 1.5
     }
 
 h1
     {
     font-size: 4em;
     margin-top: 1em;
-    margin-bottom: 0.1em
+    margin-bottom: .1em
     }
 
 h2
@@ -55,20 +54,20 @@ blockquote
     text-indent: -0.5em
     }
 
-header h3
+header h2
     {
     font-style: italic;
     font-size: 2.35em;
     line-height: 1.5;
     margin-top: 0.1em
-    color: #fff
+    color: #333;
     }
     
 /* ------ STYLING LINKS ------ */
 
 a
     {
-    color: #fff;
+    color: #c06;
     text-decoration: none;
     }
 
@@ -88,7 +87,7 @@ nav
     margin: 0;
     width: 100%;
     background-color: rgba(204, 0, 102, 0.8);
-    padding: 1em 0;
+    padding: 1em 2;
     font-size: 0.75em
     }
 
@@ -96,13 +95,15 @@ nav ul
     {
     text-align: center;
     text-transform: uppercase; 
-    letter-spacing: 2px   
+    letter-spacing: 2px; 
+    
     }
+       
 
 nav ul li 
     {
     display: inline;
-    margin: 20px
+    margin: 20px;
     }
 
 nav a:link 
@@ -151,14 +152,14 @@ img
 footer
     {
     text-align: center;
-    font-size: 0.75em;
+    font-size: 1em;
     line-height: 1.5em;
     padding: 2em 0 4em 0
     }
 
 hr 
     {
-    margin: 3em 0;
+    margin: 1em 0;
     height: 1px;
     background-color: #c06;
     color: #c06;
